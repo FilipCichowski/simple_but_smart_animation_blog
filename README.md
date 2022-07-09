@@ -15,6 +15,8 @@
 
 # Blog dedicated to animated movies created with HTML5 :clapper:
 
+Check it out: https://chikara-blog.herokuapp.com/
+
 Most bootstrap pages look similar. Bootstrap is a great tool for simple landing pages.
 
 But what if I want to create a beautiful site full of animation and with a non-standard placement of content?
